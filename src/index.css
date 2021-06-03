@@ -45,8 +45,10 @@ h1 {
 
 #selfie {
   border-radius: 150px;
-  vertical-align: middle;
+  vertical-align: center;
   border-style: none;
+  max-width: 500px;
+  max-height: 400px;
 }
 
 #header {

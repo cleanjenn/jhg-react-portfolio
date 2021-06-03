@@ -2,9 +2,33 @@
     {
         "id": 1,
         "name": "Entertainment-Roulette",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/cleanjenn/jhg-react-portfolio/main/src/assets/images/movies.png",
         "github": "https://github.com/es2013/entertainment-roulette",
         "deploy": "https://es2013.github.io/entertainment-roulette/",
         "topics": "javascript, html, css"
+    },
+    {
+        "id": 2,
+        "name": "Movie Thumbs",
+        "image": "https://raw.githubusercontent.com/cleanjenn/jhg-react-portfolio/main/src/assets/images/thumbs.png",
+        "github": "https://github.com/GRech17/Movie-Thumbs",
+        "deploy": "https://movie-thumbs.herokuapp.com/",
+        "topics": "Node, Express, MySql, Sequelize, Handlebars, Bcrypt, Express-Session, Connect-Session-Squelize"
+    },
+    {
+        "id": 3,
+        "name": "Buy Local",
+        "image": "https://raw.githubusercontent.com/cleanjenn/jhg-react-portfolio/main/src/assets/images/buylocal.png",
+        "github": "https://github.com/matt-gross-27/buy-local",
+        "deploy": "https://buylocal-3000.herokuapp.com/",
+        "topics": "MongoDB, Express.js, Node.js, React.js, Stripe, GraphQL, Cloudinary"
+    },
+    {
+        "id": 4,
+        "name": "Budget Tracker",
+        "image": "https://raw.githubusercontent.com/cleanjenn/jhg-react-portfolio/main/src/assets/images/budget.png",
+        "github": "https://github.com/cleanjenn/budget-tracker",
+        "deploy": "https://sprinkles-budget-tracker.herokuapp.com/",
+        "topics": "Mongoose, Compression, Express, Morgan"
     }
 ]

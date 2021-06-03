@@ -13,6 +13,7 @@ function Portfolio() {
     return (
         <section>
             <div className="project">
+            
                 <h1 className="title">Development Portfolio: Jennifer Gomez</h1>
                 <hr></hr>
             </div>
