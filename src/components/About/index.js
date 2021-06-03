@@ -8,7 +8,7 @@ function About() {
 
             <div className="row justify-content-center">
                 <div className="col-10" id="about-section">
-                    <img class="mb-5" src="" alt="Jennifer, in the flowers" />
+                    <img class="mb-5" src="https://raw.githubusercontent.com/cleanjenn/jhg-react-portfolio/main/src/assets/images/self.jpg" alt="Jennifer, in the flowers" />
                     <p>
                         content will be placed here..........to be continued.
                     </p>

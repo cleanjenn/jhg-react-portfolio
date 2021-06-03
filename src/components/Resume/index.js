@@ -8,14 +8,17 @@ function Resume() {
             <hr></hr>
             <div class="row justify-content-center" id="resume">
                 <div class="mt-5 pl-5 pr-5">
-                    Place Bio contents here.
+                    Welcome to my Portfolio my expertise include yet are not limited to high volume accounting, 
+                    construction accounting and software engineering. 
+                    I have knowledge in all accounting aspects from accounts receivables & payables, 
+                    general ledgers, legal and accounting issues. Now added knowledge a full stack web Development which includes front and back end servers and programs.
 
                 <p class="mt-5">
                         <a href="https://www.linkedin.com/in/jennifer-gomez-b152821bb/">
                             <img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="LinkedIn" /></a>
                     </p>
                     <p>
-                        Download my full <a href="" class="link">Résumé</a>
+                        Download my full <a href="https://raw.githubusercontent.com/cleanjenn/jhg-react-portfolio/main/src/assets/images/Jennifer%20Gomez%20Resume.pdf" class="link">Résumé</a>
                         <br></br>
                     </p>
                 </div>
